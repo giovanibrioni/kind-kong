@@ -1,8 +1,8 @@
 while true;
 
 do
- curl http://192.168.32.2/bar
- curl http://192.168.32.2/foo
+ curl http://192.168.0.9/bar
+ curl http://192.168.0.9/foo
  sleep 0.01
 done
 
